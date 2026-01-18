@@ -1,0 +1,10 @@
+# thriven CLI commands (offline)
+# Source: thriven-sound-analyzer (ZIP)
+
+scan
+analyze
+export
+process
+stemmap
+apply-stemmap
+prep-br864
